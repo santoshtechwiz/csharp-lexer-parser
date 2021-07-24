@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "NQowsPzqrUyHOWQwwLXfUqkt8N9Io/IGAwpI12vVKB6fi7Vnuim05KDat06LcmO/5blgfuLCiUTl7RYtZPuIzg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\santosh_singh2\\source\\repos\\LexerParser\\LexerParser\\LexerParser.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\santosh_singh2\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

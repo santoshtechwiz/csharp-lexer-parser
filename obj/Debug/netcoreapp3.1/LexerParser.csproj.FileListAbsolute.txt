@@ -1,0 +1,15 @@
+C:\Users\santosh_singh2\source\repos\LexerParser\LexerParser\obj\Debug\netcoreapp3.1\LexerParser.AssemblyInfoInputs.cache
+C:\Users\santosh_singh2\source\repos\LexerParser\LexerParser\obj\Debug\netcoreapp3.1\LexerParser.AssemblyInfo.cs
+C:\Users\santosh_singh2\source\repos\LexerParser\LexerParser\obj\Debug\netcoreapp3.1\LexerParser.csproj.CoreCompileInputs.cache
+C:\Users\santosh_singh2\source\repos\LexerParser\LexerParser\bin\Debug\netcoreapp3.1\LexerParser.exe
+C:\Users\santosh_singh2\source\repos\LexerParser\LexerParser\bin\Debug\netcoreapp3.1\LexerParser.deps.json
+C:\Users\santosh_singh2\source\repos\LexerParser\LexerParser\bin\Debug\netcoreapp3.1\LexerParser.runtimeconfig.json
+C:\Users\santosh_singh2\source\repos\LexerParser\LexerParser\bin\Debug\netcoreapp3.1\LexerParser.runtimeconfig.dev.json
+C:\Users\santosh_singh2\source\repos\LexerParser\LexerParser\bin\Debug\netcoreapp3.1\LexerParser.dll
+C:\Users\santosh_singh2\source\repos\LexerParser\LexerParser\bin\Debug\netcoreapp3.1\LexerParser.pdb
+C:\Users\santosh_singh2\source\repos\LexerParser\LexerParser\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\santosh_singh2\source\repos\LexerParser\LexerParser\obj\Debug\netcoreapp3.1\LexerParser.csproj.CopyComplete
+C:\Users\santosh_singh2\source\repos\LexerParser\LexerParser\obj\Debug\netcoreapp3.1\LexerParser.dll
+C:\Users\santosh_singh2\source\repos\LexerParser\LexerParser\obj\Debug\netcoreapp3.1\LexerParser.pdb
+C:\Users\santosh_singh2\source\repos\LexerParser\LexerParser\obj\Debug\netcoreapp3.1\LexerParser.genruntimeconfig.cache
+C:\Users\santosh_singh2\source\repos\LexerParser\LexerParser\obj\Debug\netcoreapp3.1\LexerParser.csproj.AssemblyReference.cache
