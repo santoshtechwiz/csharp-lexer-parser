@@ -4,11 +4,11 @@ This repository contains a lexer and parser implemented in C#. These components 
 
 ## Table of Contents
 
--   [Components](https://chat.openai.com/c/92a5dd89-9bdb-461c-a8fa-137a937dcabf#components)
--   [Getting Started](https://chat.openai.com/c/92a5dd89-9bdb-461c-a8fa-137a937dcabf#getting-started)
--   [Usage](https://chat.openai.com/c/92a5dd89-9bdb-461c-a8fa-137a937dcabf#usage)
--   [Contributing](https://chat.openai.com/c/92a5dd89-9bdb-461c-a8fa-137a937dcabf#contributing)
--   [License](https://chat.openai.com/c/92a5dd89-9bdb-461c-a8fa-137a937dcabf#license)
+-   [Components](#components)
+-   [Getting Started](#getting-started)
+-   [Usage](#usage)
+-   [Contributing](#contributing)
+-   [License](#license)
 
 ## Components
 
